@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Mrprayag077-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prayagbhosale22/)](https://www.linkedin.com/in/prayagbhosale22/) [![Instagram Badge](https://img.shields.io/badge/-@PrayagBhosale-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/prayagbhosale_22/)](https://www.instagram.com/prayagbhosale_22/)
 
 - 🔭 I’m currently working on Web Development Technologies;
-- 🌱 I’m currently learning Node.js, React;
+- 🌱 I’m currently learning Node.js, React, Django;
 - 🤔 I’m looking for help with Web Development skills;
 - 💬 Ask me about Web development or any tech related stuff;
 - 😄 Pronouns: Coder, Leader and Optimism;
 - ⚡ Fun fact: Most of the Readers Simply Scan the Website;
-- 📫 How to reach me: prayagbhosale800822@gmail.com
+- 📫 How to reach me: mrprayag77@gmail.com
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
